@@ -1,11 +1,18 @@
-### Tecladista, Produtor Musical; Consultor de TI, Desenvolvedor de Sistemas e Websites. 👋
+### Analista de Sistemas de Informação, Desenvolvedor Web Full Stack. 👋
 
-- 🔭 Estou trabalhando no Governo do Estado da Bahia
-- 🌱 Estou aprendendo React e React Native
+- 🔭 Estou trabalhando no Governo do Estado da Bahia;
+- 🌱 Estou aprendendo Docker, React e React Native;
+- ⚡ Hobbies: Tocar Piano/Teclados, Produção Musical, Aviação.
 
 ## Formação:
-- Sistemas de Informação pela Universidade Salvador (2014)
-- Especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017)
+- Sistemas de Informação pela Universidade Salvador (2014);
+- Especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017).
+
+## Skills:
+- Java: JSF / JPA / Hibernate, Spring;
+- PHP: Laravel, Joomla, WordPress, Moodle, LimeSurvey;
+- SGBD: MySQL, Oracle, PostgreSQL + PostGIS;
+- Front end: HTML, CSS, JS, Materialize, Bootstrap, JQuery, PrimeFaces, Thymeleaf, Blade Engine;
 
 ## 📫 Contatos:
 - [Site](https://eduardobelem.com.br/)
