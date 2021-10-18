@@ -8,10 +8,10 @@
 - Especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017)
 
 ## 📫 Contatos:
-- [Site](https://eduardobelem.com.br/)
-- [LinkedIn](https://www.linkedin.com/in/edumanoel/)
-- [Instagram](https://www.instagram.com/eduardobelemoficial/)
-- [YouTube](https://www.youtube.com/user/edumanoel/videos)
+- [Site](https://eduardobelem.com.br/){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/edumanoel/){:target="_blank"}
+- [Instagram](https://www.instagram.com/eduardobelemoficial/){:target="_blank"}
+- [YouTube](https://www.youtube.com/user/edumanoel/videos){:target="_blank"}
 
 <!--
 **edumanoel/edumanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
