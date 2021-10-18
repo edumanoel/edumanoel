@@ -1,4 +1,17 @@
-### Hi there 👋
+### Tecladista, Produtor Musical; Consultor de TI, Desenvolvedor de Sistemas e Websites. 👋
+
+- 🔭 Estou trabalhando no Governo do Estado da Bahia
+- 🌱 Estou aprendendo React e React Native
+
+## Formação:
+- Sistemas de Informação pela Universidade Salvador (2014)
+- Especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017)
+
+## 📫 Contatos:
+- [Site](https://eduardobelem.com.br/)
+- [LinkedIn](https://www.linkedin.com/in/edumanoel/)
+- [Instagram](https://www.instagram.com/eduardobelemoficial/)
+- [YouTube](https://www.youtube.com/user/edumanoel/videos)
 
 <!--
 **edumanoel/edumanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
