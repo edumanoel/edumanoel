@@ -13,17 +13,17 @@ Motivado pela curiosidade, iniciou no mundo da programação em 1998 com Visual 
 - ✔️ Banco de Dados (MySQL, Oracle, SQL Server, PostgreSQL + PostGIS);
 - ✔️ Front-end (HTML, CSS, JavaScript, JQuery, Bootstrap, Materialize);
 - ✔️ Docker, Jenkins, Git, GitLab, GitHub;
--  ✔️ Figma, Adobe Photoshop e Fireworks;
+- ✔️ Figma, Adobe Photoshop e Fireworks;
 - ✔️ Gestão ágil de projeto de software, Scrum, kanban, TDD;
 - ✔️ Liderança, Criatividade, Pensamento crítico.
 
-## 🌱 Estou Aprendendo:
-- 📖 Microservices com Spring Cloud;
-- 📖 NodeJS, TypeScript, React, React Native;
-- 📖 REST, SOLID, Clean Code, Clean Architecture.
+## 📚 Estou Aprendendo:
+- 📗 Microservices com Spring Cloud;
+- 📘 NodeJS, TypeScript, React, React Native;
+- 📙 REST, SOLID, Clean Code, Clean Architecture.
 
 ## ⚡ Hobbies:
-- 🎹 Tocar Piano/Teclados;
+- 🎹 Tocar Piano / Teclados;
 - 🎼 Produção Musical;
 - ✈️ Aviação.
 
