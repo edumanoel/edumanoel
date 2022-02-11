@@ -1,6 +1,6 @@
 ### Analista de Sistemas de Informação, Desenvolvedor Web Full Stack. 👋
 
-Motivado pela curiosidade, iniciou no mundo da programação em 1998 com Visual Basic migrando para desenvolvimento web com JS e PHP em 2002. Apaixonado por desafios vem ao longo dos anos buscando sempre aprimorar seus conhecimentos e acompanhar a constante evolução tecnológica com o objetivo de melhorar a eficiência e qualidade dos produtos e serviços.
+Motivado pela curiosidade, iniciou no mundo da programação de computadores em 1998 com Visual Basic migrando para Desenvolvimento Web com PHP e JavaScript em 2002. Apaixonado por desafios vem ao longo dos anos buscando sempre aprimorar seus conhecimentos e acompanhar a constante evolução tecnológica com o objetivo de melhorar a eficiência e qualidade.
 
 ## 🎓Formação:
 - ✔️ Sistemas de Informação pela Universidade Salvador (2014);
