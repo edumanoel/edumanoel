@@ -1,16 +1,33 @@
-### Hi there 👋
+### Analista de Sistemas de Informação, Desenvolvedor Web Full Stack. 👋
 
-<!--
-**edumanoel/edumanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivado pela curiosidade, iniciou no mundo da programação de computadores em 1998 com Visual Basic migrando para Desenvolvimento Web com PHP e JavaScript em 2002. Apaixonado por desafios vem ao longo dos anos buscando sempre aprimorar seus conhecimentos e acompanhar a constante evolução tecnológica com o objetivo de melhorar a eficiência e qualidade.
 
-Here are some ideas to get you started:
+## 🎓Formação
+- ✔️ Sistemas de Informação pela Universidade Salvador (2014);
+- ✔️ Especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+- ✔️ Java (JSF, JPA, Hibernate, PrimeFaces);
+- ✔️ Spring (Boot, Web, Data JPA, Security, Lombok, Thymeleaf);
+- ✔️ PHP (Laravel, Joomla, WordPress);
+- ✔️ Banco de Dados (MySQL, Oracle, SQL Server, PostgreSQL + PostGIS);
+- ✔️ Front-end (HTML, CSS, JavaScript, JQuery, Bootstrap, Materialize);
+- ✔️ Figma, Adobe Photoshop e Fireworks;
+- ✔️ Docker, Jenkins, Git, GitLab, GitHub, Azure DevOps;
+- ✔️ REST, SOLID, TDD, Clean Code, Clean Architecture;
+- ✔️ Gestão ágil de projeto de software, Scrum, Kanban;
+- ✔️ Liderança, Criatividade, Pensamento crítico.
+
+## 📚 Estou Aprendendo
+- 📙 Kafka;
+- 📗 Microservices com Spring Cloud;
+- 📘 Angular, React, React Native.
+
+## ⚡ Hobbies
+- 🎹 Tocar Piano / Teclados;
+- ✈️ Aviação.
+
+## 📫 Contatos
+🔗 [Site](https://eduardobelem.com.br/)
+🔗 [LinkedIn](https://www.linkedin.com/in/edumanoel/)
+🔗 [Instagram](https://www.instagram.com/eduardobelemteclas/)
