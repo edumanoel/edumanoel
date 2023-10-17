@@ -14,7 +14,7 @@ Motivado pela curiosidade, iniciou no mundo da programação de computadores em 
 - ✔️ Front-end (HTML, CSS, JavaScript, JQuery, Bootstrap, Materialize);
 - ✔️ Figma, Adobe Photoshop e Fireworks;
 - ✔️ Docker, Jenkins, Git, GitLab, GitHub, Azure DevOps;
-- ✔️ REST, SOLID, TDD, Clean Code, Clean Architecture;
+- ✔️ UI/UX, CI/CD, REST, SOAP, SOLID, TDD, Clean Code, Clean Architecture;
 - ✔️ Gestão ágil de projeto de software, Scrum, Kanban;
 - ✔️ Liderança, Criatividade, Pensamento crítico.
 
