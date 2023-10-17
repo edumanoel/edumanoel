@@ -12,7 +12,6 @@ Motivado pela curiosidade, iniciou no mundo da programação de computadores em 
 - ✔️ PHP (Laravel, Joomla, WordPress);
 - ✔️ Banco de Dados (MySQL, Oracle, SQL Server, PostgreSQL + PostGIS);
 - ✔️ Front-end (HTML, CSS, JavaScript, JQuery, Bootstrap, Materialize);
-- ✔️ Figma, Adobe Photoshop e Fireworks;
 - ✔️ Docker, Jenkins, Git, GitLab, GitHub, Azure DevOps;
 - ✔️ UI/UX, CI/CD, REST, SOAP, SOLID, TDD, Clean Code, Clean Architecture;
 - ✔️ Gestão ágil de projeto de software, Scrum, Kanban;
