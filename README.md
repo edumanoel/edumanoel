@@ -7,7 +7,7 @@ Motivado pela curiosidade, iniciei no mundo da programação de computadores em 
 O entusiasmo por desafios me conduz em aprimorar o conhecimento e acompanhar a constante evolução tecnológica com o objetivo de contribuir com a melhoria da qualidade e eficiência na produção de softwares.
 
 ## 🧰 Skills
-- ✔️ Gestão ágil de projeto de software, Scrum, Kanban;
+- ✔️ Gestão ágil de projeto de software, XP, Scrum, Kanban;
 - ✔️ Java EE, JSF, JPA, Hibernate, PrimeFaces;
 - ✔️ Spring Boot, MVC, Web, Security, Data JPA, Lombok, Thymeleaf;
 - ✔️ PHP, Laravel, Joomla, WordPress, Moodle;
