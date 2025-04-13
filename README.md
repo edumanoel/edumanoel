@@ -1,10 +1,12 @@
-### Olá! 👋
+# 👋 Olá, seja bem-vindo(a)!
 
-Sou Desenvolvedor Web Full Stack, possuo graduação em Sistemas de Informação pela Universidade Salvador (2014) e especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017). Com 22 anos de experiência em desenvolvimento de sites e sistemas web, faço um breve resumo da minha caminhada.
+Aqui estão disponíveis projetos pessoais públicos, projetos criados e refatorados em cursos, snippets úteis e arquivos docker que facilitam instanciar ambientes de desenvolvimento (não utilizar para ambientes de produção).
 
-Motivado pela curiosidade, iniciei no mundo da programação de computadores em 1998 com Visual Basic migrando para Desenvolvimento Web com PHP e JavaScript em 2002. Entre as ferramentas PHP que mais utilizei estão o WordPress, Joomla, Moodle e os frameworks CodeIgniter e Laravel. A partir de 2013 comecei atuar no desenvolvimento de sistemas web com JAVA utilizando o framework Demoiselle (Serpro), baseado no JSF e PrimeFaces, avançando para o Spring Framework em 2018.
+## 🙂 Sobre
 
-O entusiasmo por desafios me conduz em aprimorar o conhecimento e acompanhar a constante evolução tecnológica com o objetivo de contribuir com a melhoria da qualidade e eficiência na produção de softwares.
+Desenvolvedor Web Full Stack, possui graduação em Sistemas de Informação pela Universidade Salvador (2014) e especialização em Análise, Projeto e Gerência de Sistemas pelo Centro Universitário Estácio da Bahia (2017). Atualmente cursa a especialização em Engenharia de Software na Anhanguera Educacional (2025) e a formação profissional Google Project Management pela Escola Nacional de Administração Pública – ENAP.
+
+Com 23 anos de experiência em desenvolvimento de sites e sistemas web, iniciou a carreira na área de tecnologia da informação em 1998 como programador VB6 migrando para Desenvolvimento Web com PHP e JavaScript em 2002, utilizando WordPress, Joomla, Moodle para criação de sites e os frameworks CodeIgniter e Laravel no desenvolvimento de sistemas. A partir de 2013 entrou para uma equipe de desenvolvimento de software no Governo do Estado da Bahia, onde utilizou JAVA EE com o Framework Demoiselle, uma API MVC Java Web com base no JSF / JPA / PrimeFaces construída pelo Serpro. A partir de 2018 começou atuar em projetos JAVA com o Framework Spring Boot.
 
 ## 🧰 Skills
 - ✔️ Gestão ágil de projeto de software, XP, Scrum, Kanban;
@@ -18,11 +20,6 @@ O entusiasmo por desafios me conduz em aprimorar o conhecimento e acompanhar a c
 - ✔️ REST, SOAP, Swagger; 
 - ✔️ UI/UX, GoF, SOLID, TDD, CI/CD, Clean Code, Clean Architecture;
 - ✔️ Liderança, Criatividade, Pensamento crítico.
-
-## 📚 Estou Aprendendo
-- 📙 Kafka;
-- 📗 Microservices com Spring Cloud;
-- 📘 Angular, React, React Native.
 
 ## ⚡ Hobbies
 - 🎹 Tocar Piano / Teclados;
