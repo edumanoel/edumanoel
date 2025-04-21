@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a)!
 
-Aqui estão disponíveis projetos pessoais públicos, criados e refatorados em cursos, snippets úteis e arquivos docker que facilitam instanciar ambientes de desenvolvimento.
+Aqui estão disponíveis alguns projetos pessoais, atividades de cursos (refatorados), snippets úteis e arquivos docker que facilitam instanciar ambientes de desenvolvimento.
 
 ## 🙂 Sobre
 
