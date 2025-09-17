@@ -6,7 +6,7 @@ Aqui estão disponíveis alguns projetos pessoais, atividades de cursos (com ref
 
 Analista de Sistemas | Desenvolvedor Java & PHP | Especialista em Engenharia de Software.
 
-Com mais de 22 anos de experiência em tecnologia da informação, atuo no desenvolvimento de sistemas web e sites com foco em qualidade, desempenho e alinhamento às necessidades do negócio.
+Com mais de 22 anos de experiência em tecnologia da informação, atuo no desenvolvimento de sistemas web e sites com foco em qualidade, eficiência e alinhamento às necessidades do negócio.
 
 Destaques técnicos:
 
