@@ -20,7 +20,7 @@ Com mais de 22 anos de experiência em Tecnologia da Informação, desenvolvo si
 - Especialista em Engenharia de Software (Anhanguera, 2025)
 - Especialista em Análise, Projeto e Gerência de Sistemas (Estácio, 2017)
 - Certificado Google Cloud Computing Foundations (2025)
-- Certificado Google em Gestão de Projetos (2025)
+- Certificado Google Project Management (2025)
 - MBA em Gestão de Projetos e Processos em TI (Anhanguera, Jun/2026)
 
 ## 📫 Contatos
