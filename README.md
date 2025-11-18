@@ -9,7 +9,7 @@ Engenheiro de Software | Desenvolvedor Full Stack Java & PHP | Analista de Siste
 Com mais de 22 anos de experiência em Tecnologia da Informação, atuo no desenvolvimento de sistemas e websites com foco em qualidade, eficiência e alinhamento às necessidades do negócio. Acredito na força das metodologias ágeis, na cultura DevSecOps e na colaboração entre equipes como pilares para alcançar resultados consistentes e sustentáveis.
 
 ### Destaques técnicos
-- Atuação em todas as fases do ciclo de vida do software
+- Atuação em todas as fases do ciclo de vida de desenvolvimento de software
 - Desenvolvimento em Java (Demoiselle, Spring)
 - Desenvolvimento em PHP (Laravel) e CMS (WordPress, Joomla, Moodle)
 - Experiência com bancos de dados SQL, NoSQL e geoespaciais (PostGIS)
