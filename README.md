@@ -6,7 +6,7 @@ Aqui estão disponíveis alguns projetos pessoais, atividades de cursos (com ref
 
 Engenheiro de Software | Desenvolvedor Full Stack Java & PHP | Analista de Sistemas
 
-Com mais de 22 anos de experiência em Tecnologia da Informação, desenvolvo sistemas e websites com foco em qualidade, eficiência e alinhamento às necessidades do negócio. Acredito na força das metodologias ágeis, na cultura DevSecOps e na colaboração entre equipes como pilares para alcançar resultados consistentes e sustentáveis.
+Com mais de 22 anos de experiência em Tecnologia da Informação, atuo no desenvolvimento de sistemas e websites com foco em qualidade, eficiência e alinhamento às necessidades do negócio. Acredito na força das metodologias ágeis, na cultura DevSecOps e na colaboração entre equipes como pilares para alcançar resultados consistentes e sustentáveis.
 
 ### Destaques técnicos
 - Atuação em todas as fases do ciclo de vida do software
